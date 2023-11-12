@@ -1,0 +1,7 @@
+# webfonts
+
+The web was how I got into computers, and what I trend back towards whenever I'm inspired to create. As a lifelong writer, most of my concerns around websites revolve around accessibility. I try to keep layouts as simple as possible, and since text is the primary content of the internet, I focus first on legibile typography.
+
+I discovered the [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont) and decided I wanted to use it on future websites. Although it can be used through [Google Fonts](https://fonts.google.com/specimen/Atkinson+Hyperlegible), I wanted a better understanding of how to add fonts directly to a website. The code within doesn't concern itself with any particular web font loading strategy as I try to understand one problem at a time.
+
+This [Mozilla Developer Network article](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face) on `@font-face` should tell you everything you need to know (Though I originally read about it on some random article I've forgotten): I don't actually know if the `local` arguments I've given work the way I expect them to for the relevant use cases, but even if they don't, everything else works following my intention.
