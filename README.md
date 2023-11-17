@@ -3,6 +3,8 @@ Welcome to [my](https://www.adubhlaoich.ie) noise machine. I think of this repos
 
 Feel free to look around, but I'm unlikely to accept pull requests - this is an experiment for me to learn in public.
 
+You can reach out to me at the e-mail address code (at) adubhlaoi (dot) ch.
+
 ## Noises
 
 * [webfonts](/webfonts/)
