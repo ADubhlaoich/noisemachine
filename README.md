@@ -9,3 +9,4 @@ You can reach out to me at the e-mail address code (at) adubhlaoi (dot) ch.
 
 * [webfonts](/webfonts/)
 * [adventsvg](/adventsvg/)
+* [variablefonts](/variablefonts/)
