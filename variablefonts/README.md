@@ -42,7 +42,6 @@ The `.ttc` file contains all the normal "fixed" variations, while the `.ttf` one
 
 Cheap for your local storage, but proportionally significant. Then I compared the two `.woff2` variations with just the two regular fonts for Atkinson Hyperlegible.
 
-
 ```shell
 ➜ du -h InterVariable.woff2
 340K    InterVariable.woff2
@@ -58,7 +57,6 @@ Cheap for your local storage, but proportionally significant. Then I compared th
 ```
 
 A difference of just over 700 kilobytes versus 40 kilobytes. But what about all the variations on Atkinson Hyperlegible?
-
 
 ```shell
 ➜ ls -l
@@ -112,3 +110,4 @@ fc-list | grep "FontName"
 sudo fc-cache -f -v```
 # List and preview all your fonts
 fontpreview
+```
