@@ -13,7 +13,7 @@ fn main() {
     println!("The maximum value of a u8 signed integer is: {}.", std::u8::MAX);
 
     let status = false;
-    println!("This is a way to print a bunch of variables: {:?}", (x, y, z, status))
+    println!("This is a way to print a bunch of variables: {:?}", (x, y, z, status));
 
     let not_equals = 18 !=18;
     println!("The value os 18 != 18 is: {}", not_equals)
