@@ -15,3 +15,11 @@ This folder is for the packt learning material available on Coursera.
 | Compound Data Types - Tuples, Arrays     | [compound_structures](/compound_structures/) |
 | Compound Data Types - Vectors            | [compound_vectors](/compound_vectors)        |
 | Functions and Inputs                     | [functions_inputs](/functions_inputs)        |
+
+### Module 2 
+
+| Video                           |  Code                               |
+| ------------------------------- | ----------------------------------- |
+| Conditional If and Its Variants | [conditional_if](/conditional_if/)  |
+| If Let and Nested If            | [let_nested_if](/let_nested_if/)    |
+| Match Statement                 | [match_statement](/match_statement) |
