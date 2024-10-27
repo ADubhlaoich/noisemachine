@@ -20,11 +20,13 @@ This folder is for the packt learning material available on Coursera.
 | Mutable and Immutable References              | [references](/packtrust/references)                     |
 | Dereferencing                                 | [dereference](/packtrust/dereference)                   |
 
-### Module 2 
+### Module 2
 
 | Video                           |  Code                                          |
 | ------------------------------- | ---------------------------------------------- |
 | Conditional If and Its Variants | [conditional_if](/packtrust/conditional_if/)   |
 | If Let and Nested If            | [let_nested_if](/packtrust/let_nested_if/)     |
 | Match Statement                 | [match_statement](/packtrust/match_statement/) |
-
+| While and Simple Loops          | [while_loops](/packtrust/while_loops/)         |
+| For Loops and Their Variants    | [for_loops](/packtrust/for_loops/)             |
+| Break and Continue              | [break_continue](/packtrust/break_continue/)   |
