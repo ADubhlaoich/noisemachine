@@ -30,3 +30,5 @@ This folder is for the packt learning material available on Coursera.
 | While and Simple Loops          | [while_loops](/packtrust/while_loops/)         |
 | For Loops and Their Variants    | [for_loops](/packtrust/for_loops/)             |
 | Break and Continue              | [break_continue](/packtrust/break_continue/)   |
+| Implementing Stack              | [implement_stack](/packtrust/implement_stack/) |
+| String Reversal Using Stacks    | [stack_reversal](/packtrust/stack_reversal/)   |
